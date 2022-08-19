@@ -1,3 +1,3 @@
 # Calculadora
 
-Calculadora feita em Python utilizando Orientação a Objetos
+Calculadora feita em Python utilizando TKinter e Orientação a Objetos
